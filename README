@@ -5,6 +5,11 @@ The UBW Emulator firmware is for PIC devices such as the 18F2550 based UBW or PI
 It provides a USB to I2C interface to control ham radio hardware such as the Softrock or UHFSDR.
 It 'emulates' the firmware written by Fred Krom for the AVR uController used in the USB-I2C interface.
 
+The current firmware has been built with:
+Microchip Application Libraries v2010-08-04
+
+It does not build with newer versions of the Microchip Application Libraries.
+
 Alex
 
 
